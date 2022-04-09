@@ -1,0 +1,11 @@
+{    
+    "discord":{
+        "token": "TOKEEEN",
+        "prefix": "!",
+        "verifiedroleid": "962323827252162610",
+        "rolewithpermissionsid": "962323524465348628",
+        "logschannelid": "962350826347712543",
+        "verifychannelid": "962364122190729256",
+        "serverid": "962322671771713587"
+    }
+    }
